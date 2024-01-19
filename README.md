@@ -17,7 +17,7 @@ Folium Map (Python)
 Ensure Python is installed on your system.  
 Install the required libraries: folium and pandas.  
 ### Copy code
-'''pip install folium pandas  
+\`\`\`pip install folium pandas\`\`\`
 Run the Python script to generate a new map.  
 The script will create an HTML file (test6.html), which you can open in a web browser to view the map.   
 ## What I Learned
